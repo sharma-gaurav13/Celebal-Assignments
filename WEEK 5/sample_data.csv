@@ -1,0 +1,21 @@
+﻿user_id,transaction_date,region,product_category,sale_amount,status,city,age,subscription,raw_timestamp,email,username,price,store_id
+101,2025-07-01,West,Electronics,55000,Completed,Jaipur,25,Premium,2025-07-01 10:15:00,amit.sharma@gmail.com,amit01,55000,S101
+101,2025-07-01,West,Electronics,55000,Completed,Jaipur,25,Premium,2025-07-01 10:15:00,amit.sharma@gmail.com,amit01,55000,S101
+102,2025-07-02,North,Furniture,12000,Pending,Delhi,31,Basic,2025-07-02 11:00:00,priya.verma@gmail.com,priya02,12000,S102
+103,2025-07-03,South,Groceries,2500,Completed,Bengaluru,22,Premium,2025-07-03 09:20:00,rahul.kumar@gmail.com,,2500,S103
+104,2025-07-04,East,Clothing,3500,,Kolkata,28,Basic,2025-07-04 14:00:00,neha.singh@gmail.com,neha04,3500,S104
+105,2025-07-05,West,Electronics,72000,Completed,Mumbai,35,Premium,2025-07-05 16:30:00,vivek.patel@gmail.com,vivek05,72000,S101
+106,2025-07-06,North,Furniture,18000,Cancelled,Chandigarh,40,Basic,2025-07-06 12:00:00,,rohit06,18000,S102
+107,2025-07-07,South,Groceries,1800,Completed,Hyderabad,19,Premium,2025-07-07 08:45:00,kavya.reddy@gmail.com,kavya07,1800,S103
+108,2025-07-08,East,Clothing,4200,Pending,Patna,27,Basic,2025-07-08 13:10:00,arjun.mehta@gmail.com,arjun08,4200,S104
+109,2025-07-09,West,Electronics,68000,Completed,Pune,29,Premium,2025-07-09 17:50:00,sneha.joshi@gmail.com,sneha09,68000,S101
+110,2025-07-10,North,Furniture,15000,Completed,Lucknow,33,Basic,2025-07-10 11:40:00,deepak.yadav@gmail.com,deepak10,15000,S102
+111,2025-07-11,South,Groceries,3000,Pending,Chennai,24,Premium,2025-07-11 10:25:00,pooja.nair@gmail.com,pooja11,3000,S103
+112,2025-07-12,East,Clothing,5000,Completed,Bhubaneswar,26,Basic,2025-07-12 15:15:00,karan.malhotra@gmail.com,karan12,,S104
+113,2025-07-13,West,Electronics,81000,Completed,Ahmedabad,38,Premium,2025-07-13 18:05:00,isha.gupta@gmail.com,isha13,81000,S101
+114,2025-07-14,North,Furniture,21000,Pending,Dehradun,30,Basic,2025-07-14 09:55:00,mohit.rawat@gmail.com,mohit14,21000,S102
+115,2025-07-15,South,Groceries,2200,,Kochi,21,Premium,2025-07-15 07:35:00,ananya.pillai@gmail.com,ananya15,2200,S103
+116,2025-07-16,East,Clothing,4600,Completed,Ranchi,34,Basic,2025-07-16 14:45:00,rakesh.sahu@gmail.com,rakesh16,4600,S104
+117,2025-07-17,West,Electronics,59000,Cancelled,Surat,36,Premium,2025-07-17 16:20:00,meera.desai@gmail.com,meera17,59000,S101
+118,2025-07-18,North,Furniture,17000,Pending,Noida,23,Basic,2025-07-18 10:10:00,nitin.agarwal@gmail.com,nitin18,,S102
+119,2025-07-19,South,Groceries,2800,Completed,Mysuru,20,Premium,2025-07-19 12:30:00,shruti.hegde@gmail.com,shruti19,2800,S103
