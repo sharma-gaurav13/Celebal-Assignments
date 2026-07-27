@@ -1,0 +1,21 @@
+product_id,product_name,category,old_name,price,status,amount,base_price,user_id,region,priority
+P101,Samsung TV,Electronics,TV,55000,Completed,55000,55000,U101,North,High
+P102,HP Laptop,Electronics,Laptop,72000,Pending,72000,72000,U102,West,Medium
+P103,Rice Bag,Groceries,Rice,2500,Completed,2500,2500,U103,South,Low
+P104,Office Chair,Furniture,Chair,8500,Completed,8500,8500,U104,East,Medium
+P105,Mixer Grinder,Electronics,Mixer,4200,Cancelled,4200,4200,U105,North,High
+P106,Dining Table,Furniture,Table,25000,Completed,25000,25000,U106,West,Low
+P107,Jeans,Clothing,Jeans,1800,Pending,1800,1800,U107,South,Medium
+P108,Smartphone,Electronics,Phone,35000,Completed,35000,35000,,North,High
+P109,Milk,Groceries,Milk,60,Completed,60,60,U109,East,Low
+P110,Air Conditioner,Electronics,AC,48000,Completed,48000,48000,U110,West,High
+P111,Bookshelf,Furniture,Shelf,12000,Pending,12000,12000,U111,North,Medium
+P112,T-Shirt,Clothing,Tee,900,Completed,900,900,U112,South,Low
+P113,Washing Machine,Electronics,Washer,,Completed,38000,38000,U113,North,High
+P114,Sofa,Furniture,Sofa,45000,Cancelled,45000,45000,U114,West,High
+P115,Headphones,Electronics,Headset,3000,Completed,3000,3000,U115,North,Medium
+P116,Cooking Oil,Groceries,Oil,2200,Completed,2200,2200,U116,East,High
+P117,Refrigerator,Electronics,Fridge,65000,Pending,65000,65000,U117,South,High
+P118,Curtains,Home Decor,Curtain,1500,Completed,1500,1500,U118,North,Low
+P119,Microwave Oven,Electronics,Microwave,,Completed,11000,11000,U119,West,Medium
+P120,Study Lamp,Electronics,Lamp,1200,Completed,1200,1200,U120,North,High
