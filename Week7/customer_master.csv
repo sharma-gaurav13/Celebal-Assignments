@@ -1,0 +1,23 @@
+customer_id,customer_name,city,email,phone,status
+C001,Gaurav Sharma,Dhanbad,kumargaurav828122@gmail.com,9876543201,Active
+C002,Rahul Meel,Jaipur,rahul.meel@gmail.com,9876543202,Active
+C003,Pooja Bhukar,Bikaner,pooja.bhukar@gmail.com,9876543203,Inactive
+C004,Amit Bhaskar,Jodhpur,amit.bhaskar@gmail.com,9876543204,Active
+C005,Neha Sharma,Delhi,neha.sharma@gmail.com,9876543205,Active
+C006,Rohit Verma,Ajmer,,9876543206,Inactive
+C007,Kavita Singh,Udaipur,kavita.singh@gmail.com,9876543207,Active
+C008,Vivek Patel,Kota,vivek.patel@gmail.com,9876543208,Active
+C009,Anjali Jain,Ahmedabad,anjali.jain@gmail.com,9876543209,Inactive
+C010,Sachin Gupta,Pune,sachin.gupta@gmail.com,9876543210,Active
+C011,Priyanka Choudhary,Churu,priyanka.c@gmail.com,9876543211,Active
+C012,Deepak Rathore,Indore,deepak.rathore@gmail.com,9876543212,Inactive
+C013,Nisha Joshi,Hyderabad,nisha.joshi@gmail.com,9876543213,Active
+C014,Arjun Saini,Chandigarh,arjun.saini@gmail.com,9876543214,Active
+C015,Komal Yadav,Lucknow,,9876543215,Inactive
+C016,Rakesh Kumar,Bengaluru,rakesh.kumar@gmail.com,9876543216,Active
+C017,Sneha Mehta,Mumbai,sneha.mehta@gmail.com,9876543217,Active
+C018,Harsh Godara,Sikar,harsh.godara@gmail.com,9876543218,Inactive
+C019,Ayushi Dudi,Jaipur,ayushi.dudi@gmail.com,9876543219,Active
+C020,Mohit Beniwal,Hisar,mohit.beniwal@gmail.com,9876543220,Active
+C005,Neha Sharma,Delhi,neha.sharma@gmail.com,9876543205,Active
+C011,Priyanka Choudhary,Churu,priyanka.c@gmail.com,9876543211,Active
