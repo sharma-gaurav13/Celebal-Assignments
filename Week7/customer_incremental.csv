@@ -1,0 +1,11 @@
+customer_id,customer_name,city,email,phone,status
+C003,Pooja Bhukar,Jaipur,pooja.bhukar@company.com,9876543203,Active
+C007,Kavita Singh,Udaipur,kavita.singh@company.com,9876543207,Inactive
+C010,Sachin Gupta,Pune,sachin.gupta@company.com,9999999999,Active
+C015,Komal Yadav,Lucknow,komal.yadav@gmail.com,9876543215,Active
+C018,Harsh Godara,Sikar,harsh.godara@company.com,9999998888,Active
+C021,Rajveer Jakhar,Sikar,rajveer.jakhar@gmail.com,9876543221,Active
+C022,Ankit Sheoran,Rohtak,ankit.sheoran@gmail.com,9876543222,Active
+C023,Priyanshu Dhaka,Jaipur,priyanshu.dhaka@gmail.com,9876543223,Inactive
+C024,Megha Poonia,Bikaner,megha.poonia@gmail.com,9876543224,Active
+C025,Nitin Chahar,Kota,nitin.chahar@gmail.com,9876543225,Active
