@@ -1,0 +1,521 @@
+product_id,product_name,category,subcategory,cost_price
+1,Pressure Cooker 5L,Home,Kitchen,24895.82
+2, half girlfriend 2024 edition ,Books,Fiction,45514.72
+3,HP PAVILION 15 2024 EDITION,Electronics,Laptops,46783.7
+4,LED Diya Set Plus,Home,Decor,52679.72
+5,Wren and Martin Grammar Lite,Books,Academic,34342.79
+6,  Boat Rockerz Headphones Plus  ,Electronics,Accessories,24208.29
+7,Think Like a Monk V2,Books,Self-Help,24133.11
+8,DENIM JACKET V2,Clothing,Women,14292.88
+9,denim jeans plus,Clothing,Men,1262.96
+10,Cotton Saree Plus,Clothing,Women,16856.78
+11,ikigai v2,Books,Self-Help,5938.13
+12,Lenovo IdeaPad Slim Plus,Electronics,Laptops,58454.45
+13,  Anarkali Suit Plus  ,Clothing,Women,43741.52
+14, iphone 13 pro ,Electronics,Mobiles,26530.91
+15,  Pressure Cooker 5L V2  ,Home,Kitchen,29093.4
+16,Kids T-Shirt,Clothing,Kids,30940.42
+17,Cotton Saree V2,Clothing,Women,30432.38
+18,Wall Clock 2024 Edition,Home,Decor,1785.44
+19,Mi Power Bank 20000mAh,Electronics,Accessories,15006.94
+20,Kids T-Shirt V2,Clothing,Kids,11986.63
+21, mixer grinder 2024 edition ,Home,Kitchen,23846.69
+22,Think Like a Monk,Books,Self-Help,14554.19
+23,Steel Dinner Set Pro,Home,Kitchen,57633.2
+24,photo frame set plus,Home,Decor,20687.73
+25,Formal Shirt V2,Clothing,Men,49860.67
+26,samsung galaxy m14 lite,Electronics,Mobiles,3026.58
+27,LOGITECH WIRELESS MOUSE PRO,Electronics,Accessories,38860.42
+28,Denim Jeans V2,Clothing,Men,24599.96
+29,Think Like a Monk,Books,Self-Help,28472.13
+30,Boat Rockerz Headphones 2024 Edition,Electronics,Accessories,48061.85
+31,TRAIN TO PAKISTAN PLUS,Books,Fiction,42778.79
+32,denim jeans lite,Clothing,Men,53734.2
+33,Mixer Grinder Plus,Home,Kitchen,13131.63
+34,Wall Clock 2024 Edition,Home,Decor,23859.29
+35,bookshelf v2,Home,Furniture,57990.8
+36,Photo Frame Set V2,Home,Decor,35646.66
+37,Think Like a Monk,Books,Self-Help,28930.22
+38,Denim Jeans V2,Clothing,Men,19541.97
+39,WREN AND MARTIN GRAMMAR V2,Books,Academic,57133.66
+40,Mi Power Bank 20000mAh Pro,Electronics,Accessories,31061.75
+41,Realme Narzo 60 2024 Edition,Electronics,Mobiles,24275.7
+42,Lenovo IdeaPad Slim V2,Electronics,Laptops,1576.04
+43,Nehru Jacket Plus,Clothing,Men,54419.35
+44,  OnePlus Nord CE 2024 Edition  ,Electronics,Mobiles,42498.73
+45,Mi Power Bank 20000mAh Plus,Electronics,Accessories,43606.67
+46, led diya set v2 ,Home,Decor,47104.58
+47,atomic habits plus,Books,Self-Help,30463.53
+48,Atomic Habits 2024 Edition,Books,Self-Help,10909.09
+49,lenovo ideapad slim v2,Electronics,Laptops,15556.18
+50,BOAT ROCKERZ HEADPHONES V2,Electronics,Accessories,53980.49
+51,jbl bluetooth speaker plus,Electronics,Accessories,13438.51
+52,  Pressure Cooker 5L Plus  ,Home,Kitchen,22332.36
+53,mixer grinder,Home,Kitchen,28258.67
+54,Half Girlfriend 2024 Edition,Books,Fiction,56660.84
+55,MI POWER BANK 20000MAH 2024 EDITION,Electronics,Accessories,7232.97
+56,wall clock plus,Home,Decor,24815.78
+57,Asus Vivobook 15 Pro,Electronics,Laptops,59541.25
+58,the palace of illusions lite,Books,Fiction,8636.29
+59,  Boat Rockerz Headphones  ,Electronics,Accessories,29280.47
+60,Boat Rockerz Headphones Plus,Electronics,Accessories,38088.21
+61,Denim Jeans Pro,Clothing,Men,45683.54
+62,ACER ASPIRE 7 LITE,Electronics,Laptops,47123.39
+63,Lenovo IdeaPad Slim 2024 Edition,Electronics,Laptops,26051.0
+64,Nonstick Tawa Lite,Home,Kitchen,23029.82
+65,Mi Power Bank 20000mAh V2,Electronics,Accessories,22417.43
+66,ANARKALI SUIT 2024 EDITION,Clothing,Women,11475.07
+67,RD SHARMA MATHEMATICS V2,Books,Academic,14966.95
+68,Kurti Set Plus,Clothing,Women,7779.4
+69,half girlfriend plus,Books,Fiction,10062.86
+70,  Cotton Saree Plus  ,Clothing,Women,27382.78
+71,WALL CLOCK PLUS,Home,Decor,26048.23
+72,Lenovo IdeaPad Slim Plus,Electronics,Laptops,59768.53
+73, mi power bank 20000mah pro ,Electronics,Accessories,56887.66
+74,SCHOOL UNIFORM SET,Clothing,Kids,13743.68
+75,  Lenovo IdeaPad Slim Pro  ,Electronics,Laptops,44057.89
+76,ACER ASPIRE 7,Electronics,Laptops,22027.16
+77,OnePlus Nord CE Lite,Electronics,Mobiles,52598.82
+78, led diya set 2024 edition ,Home,Decor,2962.79
+79,Atomic Habits,Books,Self-Help,39231.38
+80,Ikigai,Books,Self-Help,25035.7
+81,Photo Frame Set Plus,Home,Decor,28490.06
+82,Ikigai V2,Books,Self-Help,37837.16
+83,Atomic Habits,Books,Self-Help,39765.85
+84,train to pakistan v2,Books,Fiction,8272.95
+85,HP Pavilion 15 2024 Edition,Electronics,Laptops,43140.04
+86,  Dell Inspiron 14  ,Electronics,Laptops,29889.46
+87,Formal Shirt 2024 Edition,Clothing,Men,58388.53
+88,  Pressure Cooker 5L Plus  ,Home,Kitchen,9664.4
+89,Logitech Wireless Mouse V2,Electronics,Accessories,55990.8
+90, redmi note 13 ,Electronics,Mobiles,40314.41
+91, the palace of illusions v2 ,Books,Fiction,29671.54
+92,Bookshelf,Home,Furniture,43427.64
+93, formal shirt v2 ,Clothing,Men,13908.06
+94,Nehru Jacket Plus,Clothing,Men,27883.43
+95,Boat Rockerz Headphones,Electronics,Accessories,51142.31
+96,Think Like a Monk Plus,Books,Self-Help,25588.41
+97,ONEPLUS NORD CE,Electronics,Mobiles,51127.32
+98,Acer Aspire 7 Plus,Electronics,Laptops,21483.77
+99,NCERT Physics Class 12 Plus,Books,Academic,52714.61
+100,Denim Jacket Pro,Clothing,Women,6874.23
+101,MIXER GRINDER PLUS,Home,Kitchen,50150.72
+102,WOODEN STUDY TABLE LITE,Home,Furniture,38948.35
+103,Dell Inspiron 14 Pro,Electronics,Laptops,41785.38
+104,  Acer Aspire 7  ,Electronics,Laptops,24990.86
+105,  The Palace of Illusions V2  ,Books,Fiction,26317.86
+106,KURTI SET 2024 EDITION,Clothing,Women,1777.53
+107,Lenovo IdeaPad Slim Lite,Electronics,Laptops,55227.86
+108,Pressure Cooker 5L Lite,Home,Kitchen,2806.04
+109,ANARKALI SUIT,Clothing,Women,42288.86
+110, the palace of illusions v2 ,Books,Fiction,33922.48
+111,ATOMIC HABITS PLUS,Books,Self-Help,31170.03
+112,NCERT PHYSICS CLASS 12,Books,Academic,25999.23
+113,  Wooden Study Table Plus  ,Home,Furniture,39839.45
+114,  Asus Vivobook 15 2024 Edition  ,Electronics,Laptops,53529.11
+115,  Redmi Note 13 V2  ,Electronics,Mobiles,56065.57
+116,Wooden Study Table Lite,Home,Furniture,52171.47
+117, plastic chair set plus ,Home,Furniture,14491.46
+118,  Realme Narzo 60 2024 Edition  ,Electronics,Mobiles,13401.26
+119,School Uniform Set Pro,Clothing,Kids,4775.89
+120,The Palace of Illusions Lite,Books,Fiction,5326.79
+121,ANARKALI SUIT,Clothing,Women,58841.21
+122,Samsung Galaxy M14,Electronics,Mobiles,24236.21
+123,PHOTO FRAME SET,Home,Decor,49563.23
+124,  NCERT Physics Class 12 V2  ,Books,Academic,18310.65
+125, logitech wireless mouse v2 ,Electronics,Accessories,40304.89
+126,kids t-shirt,Clothing,Kids,49004.49
+127,  Denim Jacket 2024 Edition  ,Clothing,Women,46056.61
+128,Atomic Habits Plus,Books,Self-Help,42969.01
+129,Atomic Habits Pro,Books,Self-Help,181.71
+130,RD Sharma Mathematics Plus,Books,Academic,32884.05
+131,HP Pavilion 15,Electronics,Laptops,53817.78
+132,Pressure Cooker 5L,Home,Kitchen,15294.64
+133,dell inspiron 14 lite,Electronics,Laptops,12974.59
+134,MI POWER BANK 20000MAH V2,Electronics,Accessories,20309.12
+135,  OnePlus Nord CE V2  ,Electronics,Mobiles,50256.1
+136, steel dinner set lite ,Home,Kitchen,39524.48
+137,LENOVO IDEAPAD SLIM LITE,Electronics,Laptops,310.04
+138,Photo Frame Set Lite,Home,Decor,50337.03
+139,Bookshelf Pro,Home,Furniture,41524.47
+140,  Lenovo IdeaPad Slim  ,Electronics,Laptops,23274.96
+141,Anarkali Suit 2024 Edition,Clothing,Women,52889.36
+142,Train to Pakistan V2,Books,Fiction,45754.36
+143,Denim Jacket Plus,Clothing,Women,27198.1
+144,PRESSURE COOKER 5L 2024 EDITION,Home,Kitchen,42015.86
+145,Cotton Saree V2,Clothing,Women,32890.97
+146,Photo Frame Set V2,Home,Decor,13079.69
+147,NEHRU JACKET V2,Clothing,Men,20750.35
+148,WREN AND MARTIN GRAMMAR PRO,Books,Academic,30258.41
+149,Anarkali Suit V2,Clothing,Women,6968.54
+150,WOODEN STUDY TABLE 2024 EDITION,Home,Furniture,34259.76
+151,pressure cooker 5l v2,Home,Kitchen,44884.73
+152,  Nehru Jacket Lite  ,Clothing,Men,48507.87
+153,SAMSUNG GALAXY M14 LITE,Electronics,Mobiles,8762.34
+154,Mi Power Bank 20000mAh Plus,Electronics,Accessories,45023.59
+155,nehru jacket v2,Clothing,Men,15071.13
+156,  Ikigai Plus  ,Books,Self-Help,12279.85
+157,kurti set lite,Clothing,Women,6193.68
+158,  Photo Frame Set Pro  ,Home,Decor,44557.64
+159,COTTON KURTA 2024 EDITION,Clothing,Men,47069.22
+160, nehru jacket v2 ,Clothing,Men,39886.39
+161, kids shorts lite ,Clothing,Kids,57404.28
+162,ANARKALI SUIT 2024 EDITION,Clothing,Women,3275.44
+163,mi power bank 20000mah 2024 edition,Electronics,Accessories,52137.56
+164,STEEL DINNER SET PRO,Home,Kitchen,54693.61
+165,  Wren and Martin Grammar Plus  ,Books,Academic,45318.71
+166, train to pakistan pro ,Books,Fiction,46580.0
+167,NEHRU JACKET LITE,Clothing,Men,10686.68
+168,Boat Rockerz Headphones Pro,Electronics,Accessories,44118.02
+169,OnePlus Nord CE Lite,Electronics,Mobiles,16782.78
+170,Acer Aspire 7 2024 Edition,Electronics,Laptops,50768.55
+171,Mixer Grinder V2,Home,Kitchen,56252.79
+172, anarkali suit 2024 edition ,Clothing,Women,3098.78
+173,NCERT PHYSICS CLASS 12 V2,Books,Academic,18104.23
+174,PHOTO FRAME SET PLUS,Home,Decor,4419.2
+175,  Wall Clock Pro  ,Home,Decor,57421.41
+176,  Bookshelf Pro  ,Home,Furniture,24985.08
+177,iPhone 13 Plus,Electronics,Mobiles,13310.82
+178,Denim Jacket Plus,Clothing,Women,21679.83
+179,  NCERT Physics Class 12 2024 Edition  ,Books,Academic,28517.69
+180,Wren and Martin Grammar,Books,Academic,6927.58
+181,  Cotton Kurta V2  ,Clothing,Men,36841.38
+182,OnePlus Nord CE V2,Electronics,Mobiles,53145.33
+183,DELL INSPIRON 14 LITE,Electronics,Laptops,15432.6
+184,Samsung Galaxy M14 2024 Edition,Electronics,Mobiles,49335.44
+185,Bookshelf Lite,Home,Furniture,29233.94
+186,Wren and Martin Grammar Pro,Books,Academic,19252.75
+187,HP PAVILION 15 PRO,Electronics,Laptops,58299.14
+188,LED Diya Set,Home,Decor,37634.64
+189,RD Sharma Mathematics Pro,Books,Academic,51903.8
+190,HP PAVILION 15 PRO,Electronics,Laptops,32288.37
+191,Nonstick Tawa V2,Home,Kitchen,49014.42
+192,THINK LIKE A MONK PRO,Books,Self-Help,1473.99
+193,OnePlus Nord CE,Electronics,Mobiles,4441.22
+194,formal shirt 2024 edition,Clothing,Men,4273.0
+195,  Formal Shirt Lite  ,Clothing,Men,23312.55
+196,NONSTICK TAWA PLUS,Home,Kitchen,1062.61
+197,  LED Diya Set  ,Home,Decor,38503.29
+198,Half Girlfriend,Books,Fiction,42067.88
+199,BOOKSHELF,Home,Furniture,17425.7
+200, train to pakistan ,Books,Fiction,16926.97
+201,Kids Shorts Lite,Clothing,Kids,49336.24
+202,ACER ASPIRE 7 2024 EDITION,Electronics,Laptops,13230.95
+203,LED Diya Set Plus,Home,Decor,57610.05
+204, think like a monk v2 ,Books,Self-Help,38894.04
+205,Redmi Note 13 2024 Edition,Electronics,Mobiles,52492.28
+206,OnePlus Nord CE,Electronics,Mobiles,34384.48
+207,PHOTO FRAME SET,Home,Decor,18316.23
+208,  Kurti Set Pro  ,Clothing,Women,24788.64
+209,Bookshelf Pro,Home,Furniture,9699.21
+210,FORMAL SHIRT PRO,Clothing,Men,6921.62
+211, the palace of illusions ,Books,Fiction,51090.69
+212,Photo Frame Set Lite,Home,Decor,38698.24
+213,Atomic Habits,Books,Self-Help,15078.72
+214,Half Girlfriend Lite,Books,Fiction,57094.82
+215,Atomic Habits V2,Books,Self-Help,14110.24
+216,Vivo Y27 Pro,Electronics,Mobiles,19101.27
+217,  NCERT Physics Class 12 V2  ,Books,Academic,18375.25
+218,The Palace of Illusions 2024 Edition,Books,Fiction,21901.38
+219,Nonstick Tawa Pro,Home,Kitchen,339.67
+220,JBL Bluetooth Speaker V2,Electronics,Accessories,44401.98
+221,Kids T-Shirt Pro,Clothing,Kids,40790.83
+222,WOODEN STUDY TABLE LITE,Home,Furniture,26749.21
+223,  Plastic Chair Set 2024 Edition  ,Home,Furniture,6574.52
+224,iPhone 13 Plus,Electronics,Mobiles,51529.88
+225,led diya set pro,Home,Decor,15830.92
+226,Vivo Y27 V2,Electronics,Mobiles,4570.23
+227,  Bookshelf V2  ,Home,Furniture,1920.09
+228,School Uniform Set 2024 Edition,Clothing,Kids,12805.0
+229,  Formal Shirt 2024 Edition  ,Clothing,Men,53644.46
+230,Wren and Martin Grammar Pro,Books,Academic,21980.83
+231,Half Girlfriend V2,Books,Fiction,51436.99
+232,Bookshelf 2024 Edition,Home,Furniture,5478.71
+233, redmi note 13 v2 ,Electronics,Mobiles,14370.9
+234,  NCERT Physics Class 12 V2  ,Books,Academic,9992.32
+235, steel dinner set pro ,Home,Kitchen,10789.75
+236,Atomic Habits Pro,Books,Self-Help,44168.39
+237,Kurti Set,Clothing,Women,13168.21
+238,Vivo Y27 Plus,Electronics,Mobiles,22197.64
+239,Logitech Wireless Mouse 2024 Edition,Electronics,Accessories,54468.18
+240,Wooden Study Table Lite,Home,Furniture,52899.04
+241, wren and martin grammar plus ,Books,Academic,6238.34
+242,RD Sharma Mathematics Plus,Books,Academic,50100.59
+243,LED DIYA SET 2024 EDITION,Home,Decor,10472.3
+244,kids t-shirt 2024 edition,Clothing,Kids,39217.53
+245, wall clock plus ,Home,Decor,22610.91
+246,wall clock lite,Home,Decor,21206.24
+247,Plastic Chair Set Lite,Home,Furniture,53235.96
+248,Lenovo IdeaPad Slim Lite,Electronics,Laptops,9978.07
+249,Wren and Martin Grammar Plus,Books,Academic,12730.45
+250,Kids T-Shirt 2024 Edition,Clothing,Kids,43052.3
+251,JBL BLUETOOTH SPEAKER LITE,Electronics,Accessories,48679.8
+252,Wooden Study Table V2,Home,Furniture,28754.94
+253,Acer Aspire 7 V2,Electronics,Laptops,50010.23
+254,OnePlus Nord CE Pro,Electronics,Mobiles,34430.52
+255,  RD Sharma Mathematics 2024 Edition  ,Books,Academic,2399.49
+256,Realme Narzo 60 Pro,Electronics,Mobiles,15532.67
+257,  School Uniform Set 2024 Edition  ,Clothing,Kids,58156.16
+258,Atomic Habits Plus,Books,Self-Help,56837.87
+259,Train to Pakistan Lite,Books,Fiction,52044.78
+260,  Pressure Cooker 5L 2024 Edition  ,Home,Kitchen,8605.59
+261,Boat Rockerz Headphones 2024 Edition,Electronics,Accessories,39595.94
+262,  Think Like a Monk Plus  ,Books,Self-Help,55345.0
+263,Vivo Y27 Pro,Electronics,Mobiles,22723.77
+264, samsung galaxy m14 pro ,Electronics,Mobiles,31386.55
+265,  Think Like a Monk Lite  ,Books,Self-Help,49599.53
+266,  Boat Rockerz Headphones Lite  ,Electronics,Accessories,54101.41
+267,LED Diya Set 2024 Edition,Home,Decor,45155.37
+268,  Atomic Habits Pro  ,Books,Self-Help,54123.99
+269,  Redmi Note 13 V2  ,Electronics,Mobiles,38971.44
+270,Kids T-Shirt,Clothing,Kids,41873.69
+271,wooden study table lite,Home,Furniture,21063.54
+272,Ikigai 2024 Edition,Books,Self-Help,5908.13
+273,Wooden Study Table Pro,Home,Furniture,54609.62
+274,Train to Pakistan 2024 Edition,Books,Fiction,24548.37
+275,  Redmi Note 13 2024 Edition  ,Electronics,Mobiles,31376.31
+276,kids shorts v2,Clothing,Kids,12364.85
+277,Pressure Cooker 5L Plus,Home,Kitchen,6439.66
+278,  Half Girlfriend Plus  ,Books,Fiction,15715.11
+279, the palace of illusions plus ,Books,Fiction,36732.25
+280,SCHOOL UNIFORM SET PRO,Clothing,Kids,24823.03
+281,  Wooden Study Table Pro  ,Home,Furniture,22244.27
+282,FORMAL SHIRT PLUS,Clothing,Men,34680.19
+283,school uniform set v2,Clothing,Kids,8327.21
+284,DELL INSPIRON 14 V2,Electronics,Laptops,13824.79
+285,Acer Aspire 7,Electronics,Laptops,12906.77
+286,DENIM JACKET 2024 EDITION,Clothing,Women,36860.82
+287,  Realme Narzo 60 Pro  ,Electronics,Mobiles,23376.77
+288,  iPhone 13 Pro  ,Electronics,Mobiles,28326.54
+289,iPhone 13,Electronics,Mobiles,15822.37
+290, train to pakistan ,Books,Fiction,43483.46
+291,School Uniform Set 2024 Edition,Clothing,Kids,39387.71
+292,train to pakistan,Books,Fiction,56745.67
+293,RD Sharma Mathematics Lite,Books,Academic,26366.37
+294,Atomic Habits 2024 Edition,Books,Self-Help,17196.09
+295,Train to Pakistan 2024 Edition,Books,Fiction,30973.03
+296,Acer Aspire 7 V2,Electronics,Laptops,2211.86
+297,Redmi Note 13 Pro,Electronics,Mobiles,5256.23
+298,School Uniform Set Plus,Clothing,Kids,40196.24
+299,MI POWER BANK 20000MAH 2024 EDITION,Electronics,Accessories,971.22
+300,iphone 13 2024 edition,Electronics,Mobiles,17105.4
+301,half girlfriend plus,Books,Fiction,20881.13
+302,JBL Bluetooth Speaker 2024 Edition,Electronics,Accessories,57785.28
+303,School Uniform Set 2024 Edition,Clothing,Kids,328.85
+304,  Bookshelf  ,Home,Furniture,33539.91
+305, denim jacket ,Clothing,Women,48186.39
+306,LED Diya Set 2024 Edition,Home,Decor,15045.98
+307,Kids Shorts 2024 Edition,Clothing,Kids,29043.61
+308,denim jacket lite,Clothing,Women,40911.6
+309,Samsung Galaxy M14 Lite,Electronics,Mobiles,7020.28
+310,RD Sharma Mathematics Pro,Books,Academic,40630.93
+311,  Anarkali Suit Lite  ,Clothing,Women,57328.97
+312,Redmi Note 13 V2,Electronics,Mobiles,49939.01
+313,iphone 13 lite,Electronics,Mobiles,40438.19
+314,Vivo Y27 2024 Edition,Electronics,Mobiles,55887.2
+315,Kurti Set Pro,Clothing,Women,53664.26
+316,Think Like a Monk Pro,Books,Self-Help,29965.01
+317,Cotton Kurta Plus,Clothing,Men,12446.38
+318,COTTON KURTA 2024 EDITION,Clothing,Men,21393.84
+319,DELL INSPIRON 14,Electronics,Laptops,40564.94
+320,  NCERT Physics Class 12  ,Books,Academic,45866.44
+321,OnePlus Nord CE Lite,Electronics,Mobiles,22303.23
+322, the palace of illusions plus ,Books,Fiction,29473.78
+323,BOOKSHELF PLUS,Home,Furniture,23902.88
+324,Lenovo IdeaPad Slim,Electronics,Laptops,31567.84
+325,LED Diya Set,Home,Decor,30173.39
+326,Think Like a Monk Pro,Books,Self-Help,27458.9
+327,Wall Clock Lite,Home,Decor,18973.29
+328,Think Like a Monk Pro,Books,Self-Help,22796.71
+329,Kids T-Shirt 2024 Edition,Clothing,Kids,51717.43
+330, formal shirt pro ,Clothing,Men,16201.02
+331,Denim Jacket Plus,Clothing,Women,11075.62
+332,Pressure Cooker 5L V2,Home,Kitchen,45144.14
+333,  School Uniform Set Plus  ,Clothing,Kids,27071.2
+334,The Palace of Illusions V2,Books,Fiction,13752.58
+335,denim jeans pro,Clothing,Men,33342.64
+336,MI POWER BANK 20000MAH PRO,Electronics,Accessories,48012.25
+337,Wooden Study Table,Home,Furniture,10637.61
+338,RD Sharma Mathematics 2024 Edition,Books,Academic,32062.26
+339,plastic chair set plus,Home,Furniture,15095.89
+340,Realme Narzo 60 Lite,Electronics,Mobiles,5983.54
+341,  Logitech Wireless Mouse Plus  ,Electronics,Accessories,28618.54
+342,Steel Dinner Set V2,Home,Kitchen,20112.66
+343,Photo Frame Set 2024 Edition,Home,Decor,55914.08
+344,samsung galaxy m14 lite,Electronics,Mobiles,7318.19
+345,  Train to Pakistan Pro  ,Books,Fiction,34632.38
+346,LED Diya Set Pro,Home,Decor,58763.42
+347,ANARKALI SUIT V2,Clothing,Women,30651.15
+348,Steel Dinner Set,Home,Kitchen,22895.21
+349,  RD Sharma Mathematics Pro  ,Books,Academic,52102.05
+350,  Denim Jacket Lite  ,Clothing,Women,37894.84
+351,Vivo Y27,Electronics,Mobiles,9761.87
+352,Anarkali Suit V2,Clothing,Women,17516.81
+353,Wren and Martin Grammar Lite,Books,Academic,16311.32
+354, kids t-shirt v2 ,Clothing,Kids,35235.84
+355,Pressure Cooker 5L Pro,Home,Kitchen,11073.98
+356,COTTON KURTA V2,Clothing,Men,15136.24
+357,iPhone 13 Pro,Electronics,Mobiles,10056.28
+358,Vivo Y27 Lite,Electronics,Mobiles,32928.6
+359,School Uniform Set 2024 Edition,Clothing,Kids,45911.53
+360,FORMAL SHIRT 2024 EDITION,Clothing,Men,9358.7
+361,KIDS SHORTS PLUS,Clothing,Kids,13799.89
+362,  Steel Dinner Set V2  ,Home,Kitchen,7628.38
+363,Acer Aspire 7,Electronics,Laptops,2157.54
+364,anarkali suit lite,Clothing,Women,28058.25
+365, denim jeans 2024 edition ,Clothing,Men,26718.45
+366,  Ikigai 2024 Edition  ,Books,Self-Help,10663.35
+367,  RD Sharma Mathematics V2  ,Books,Academic,38169.28
+368,Wall Clock V2,Home,Decor,38389.72
+369,kurti set lite,Clothing,Women,32403.1
+370,Steel Dinner Set Plus,Home,Kitchen,21978.71
+371,cotton saree,Clothing,Women,55.54
+372,  Lenovo IdeaPad Slim Plus  ,Electronics,Laptops,17241.4
+373,Ikigai Lite,Books,Self-Help,56820.1
+374,  Redmi Note 13 Lite  ,Electronics,Mobiles,47887.99
+375,Redmi Note 13 2024 Edition,Electronics,Mobiles,22449.95
+376,Photo Frame Set Lite,Home,Decor,23715.39
+377,Wren and Martin Grammar Lite,Books,Academic,49714.19
+378,  iPhone 13 Lite  ,Electronics,Mobiles,37538.11
+379,NCERT Physics Class 12 V2,Books,Academic,41094.19
+380,led diya set plus,Home,Decor,24803.59
+381,  Boat Rockerz Headphones Pro  ,Electronics,Accessories,17411.24
+382,  NCERT Physics Class 12 Lite  ,Books,Academic,16364.44
+383,Mi Power Bank 20000mAh Plus,Electronics,Accessories,1212.75
+384,LED Diya Set,Home,Decor,11196.96
+385,DENIM JEANS PRO,Clothing,Men,42926.0
+386,JBL Bluetooth Speaker,Electronics,Accessories,9083.49
+387,DENIM JACKET LITE,Clothing,Women,18729.02
+388,Kids T-Shirt Lite,Clothing,Kids,41831.24
+389,IPHONE 13 PRO,Electronics,Mobiles,3409.5
+390,Vivo Y27 2024 Edition,Electronics,Mobiles,28235.3
+391,Formal Shirt Lite,Clothing,Men,49703.71
+392,Cotton Kurta Lite,Clothing,Men,46284.96
+393,ONEPLUS NORD CE PRO,Electronics,Mobiles,27677.04
+394,Wall Clock V2,Home,Decor,58927.85
+395,Think Like a Monk Plus,Books,Self-Help,56176.1
+396,  OnePlus Nord CE V2  ,Electronics,Mobiles,56248.38
+397,Formal Shirt Lite,Clothing,Men,38329.27
+398,Realme Narzo 60 V2,Electronics,Mobiles,13106.41
+399,RD Sharma Mathematics Lite,Books,Academic,19504.58
+400,DENIM JEANS 2024 EDITION,Clothing,Men,7222.99
+401,REDMI NOTE 13,Electronics,Mobiles,34885.57
+402,IKIGAI 2024 EDITION,Books,Self-Help,9341.77
+403,COTTON KURTA PRO,Clothing,Men,30020.16
+404,Denim Jacket V2,Clothing,Women,3650.14
+405,Asus Vivobook 15 V2,Electronics,Laptops,32204.38
+406,  Plastic Chair Set Pro  ,Home,Furniture,19038.54
+407,Wren and Martin Grammar Plus,Books,Academic,48341.25
+408,Mi Power Bank 20000mAh,Electronics,Accessories,41370.54
+409,Lenovo IdeaPad Slim Plus,Electronics,Laptops,53924.85
+410,STEEL DINNER SET 2024 EDITION,Home,Kitchen,17718.14
+411,Mi Power Bank 20000mAh 2024 Edition,Electronics,Accessories,11238.27
+412,  Mixer Grinder Plus  ,Home,Kitchen,52066.33
+413,Photo Frame Set Pro,Home,Decor,4179.15
+414,Nehru Jacket Plus,Clothing,Men,32519.28
+415,RD Sharma Mathematics 2024 Edition,Books,Academic,22773.66
+416,SAMSUNG GALAXY M14 2024 EDITION,Electronics,Mobiles,51416.92
+417,COTTON KURTA PLUS,Clothing,Men,43274.16
+418,LED DIYA SET LITE,Home,Decor,11432.67
+419,Photo Frame Set Pro,Home,Decor,36801.7
+420,  Wren and Martin Grammar Plus  ,Books,Academic,6672.32
+421,Vivo Y27,Electronics,Mobiles,50119.84
+422,OnePlus Nord CE Pro,Electronics,Mobiles,6467.96
+423,OnePlus Nord CE 2024 Edition,Electronics,Mobiles,38523.01
+424,  Plastic Chair Set 2024 Edition  ,Home,Furniture,37457.03
+425,REALME NARZO 60 PLUS,Electronics,Mobiles,13282.33
+426, redmi note 13 pro ,Electronics,Mobiles,39362.17
+427,iPhone 13 Lite,Electronics,Mobiles,48071.15
+428,Photo Frame Set V2,Home,Decor,56297.72
+429,  Kids T-Shirt V2  ,Clothing,Kids,3545.09
+430,wall clock,Home,Decor,44071.31
+431,Vivo Y27 Pro,Electronics,Mobiles,57637.18
+432,JBL Bluetooth Speaker 2024 Edition,Electronics,Accessories,23150.6
+433, atomic habits pro ,Books,Self-Help,34223.16
+434,PHOTO FRAME SET V2,Home,Decor,33510.59
+435,RD Sharma Mathematics 2024 Edition,Books,Academic,21509.9
+436,Atomic Habits Lite,Books,Self-Help,52975.3
+437,Boat Rockerz Headphones 2024 Edition,Electronics,Accessories,24123.35
+438,Acer Aspire 7 2024 Edition,Electronics,Laptops,59906.09
+439, kurti set plus ,Clothing,Women,33027.38
+440,Kids T-Shirt Lite,Clothing,Kids,45862.85
+441,  Anarkali Suit 2024 Edition  ,Clothing,Women,14481.32
+442,Kids Shorts 2024 Edition,Clothing,Kids,55572.51
+443,Steel Dinner Set Lite,Home,Kitchen,57591.47
+444,  OnePlus Nord CE Plus  ,Electronics,Mobiles,35765.98
+445,Cotton Saree,Clothing,Women,18055.02
+446, anarkali suit ,Clothing,Women,46302.81
+447,  Denim Jeans 2024 Edition  ,Clothing,Men,30700.73
+448,The Palace of Illusions Pro,Books,Fiction,5702.51
+449,asus vivobook 15 pro,Electronics,Laptops,15936.04
+450,Cotton Kurta Pro,Clothing,Men,15411.82
+451,The Palace of Illusions Lite,Books,Fiction,34165.44
+452,Vivo Y27 V2,Electronics,Mobiles,19515.29
+453,plastic chair set v2,Home,Furniture,42185.73
+454,HP Pavilion 15 2024 Edition,Electronics,Laptops,38553.16
+455,The Palace of Illusions Lite,Books,Fiction,4754.72
+456,Denim Jacket Plus,Clothing,Women,52793.56
+457,dell inspiron 14 pro,Electronics,Laptops,44873.34
+458,Redmi Note 13 V2,Electronics,Mobiles,46656.25
+459,  Cotton Saree 2024 Edition  ,Clothing,Women,2518.88
+460,Asus Vivobook 15 Plus,Electronics,Laptops,30168.98
+461,Realme Narzo 60 V2,Electronics,Mobiles,43908.14
+462,Steel Dinner Set 2024 Edition,Home,Kitchen,34536.53
+463,Nonstick Tawa Plus,Home,Kitchen,47192.78
+464,DENIM JACKET,Clothing,Women,28577.49
+465,Photo Frame Set Lite,Home,Decor,15790.35
+466,Nonstick Tawa V2,Home,Kitchen,7865.99
+467,PHOTO FRAME SET PRO,Home,Decor,29297.27
+468,MI POWER BANK 20000MAH 2024 EDITION,Electronics,Accessories,36979.01
+469,COTTON KURTA PRO,Clothing,Men,4345.06
+470,Anarkali Suit V2,Clothing,Women,55452.08
+471,Atomic Habits Lite,Books,Self-Help,25441.26
+472,Anarkali Suit Plus,Clothing,Women,35652.94
+473,  Cotton Saree Pro  ,Clothing,Women,59259.73
+474,Steel Dinner Set 2024 Edition,Home,Kitchen,8791.82
+475,JBL Bluetooth Speaker Pro,Electronics,Accessories,41137.29
+476,iPhone 13,Electronics,Mobiles,44387.92
+477,ncert physics class 12 pro,Books,Academic,52131.7
+478,Redmi Note 13 Plus,Electronics,Mobiles,41643.02
+479,Steel Dinner Set Lite,Home,Kitchen,1413.75
+480,  LED Diya Set Pro  ,Home,Decor,12267.89
+481,FORMAL SHIRT 2024 EDITION,Clothing,Men,29007.43
+482,Asus Vivobook 15 V2,Electronics,Laptops,41940.38
+483,Half Girlfriend V2,Books,Fiction,31631.61
+484,REALME NARZO 60 PLUS,Electronics,Mobiles,12081.73
+485, denim jeans ,Clothing,Men,27924.4
+486,VIVO Y27 LITE,Electronics,Mobiles,39639.35
+487,Atomic Habits Plus,Books,Self-Help,51863.72
+488,Wren and Martin Grammar Lite,Books,Academic,13908.56
+489,  HP Pavilion 15 Plus  ,Electronics,Laptops,29105.5
+490, iphone 13 pro ,Electronics,Mobiles,11972.57
+491,Photo Frame Set V2,Home,Decor,1338.23
+492,Wall Clock Plus,Home,Decor,20047.5
+493,Acer Aspire 7,Electronics,Laptops,20839.46
+494, rd sharma mathematics plus ,Books,Academic,14210.48
+495,  Bookshelf Plus  ,Home,Furniture,48722.98
+496, kids shorts ,Clothing,Kids,56651.0
+497,JBL Bluetooth Speaker Pro,Electronics,Accessories,20540.08
+498,  Lenovo IdeaPad Slim  ,Electronics,Laptops,43806.89
+499,THINK LIKE A MONK 2024 EDITION,Books,Self-Help,52368.45
+500,Pressure Cooker 5L Pro,Home,Kitchen,34395.27
+501,  Cotton Saree 2024 Edition  ,Clothing,Women,19790.62
+502,  Logitech Wireless Mouse V2  ,Electronics,Accessories,8357.66
+503,MI POWER BANK 20000MAH PRO,Electronics,Accessories,18574.45
+504, wall clock pro ,Home,Decor,25832.35
+505, asus vivobook 15 v2 ,Electronics,Laptops,55985.15
+506, anarkali suit ,Clothing,Women,33462.55
+507,dell inspiron 14 pro,Electronics,Laptops,19089.98
+508,Samsung Galaxy M14 Plus,Electronics,Mobiles,52813.91
+509, pressure cooker 5l plus ,Home,Kitchen,26608.12
+510,RD SHARMA MATHEMATICS V2,Books,Academic,16464.08
+511,HP PAVILION 15 PRO,Electronics,Laptops,11125.55
+512,  NCERT Physics Class 12 2024 Edition  ,Books,Academic,16048.41
+513,JBL BLUETOOTH SPEAKER 2024 EDITION,Electronics,Accessories,13969.34
+514,Kurti Set,Clothing,Women,41304.07
+515,  Bookshelf 2024 Edition  ,Home,Furniture,28152.37
+516,Boat Rockerz Headphones Lite,Electronics,Accessories,29512.16
+517,MI POWER BANK 20000MAH PRO,Electronics,Accessories,1982.16
+518,Redmi Note 13 Plus,Electronics,Mobiles,57014.37
+519,Atomic Habits Pro,Books,Self-Help,45478.71
+520,Steel Dinner Set 2024 Edition,Home,Kitchen,29422.08
